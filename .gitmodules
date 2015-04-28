@@ -1,3 +1,6 @@
 [submodule "INF110"]
 	path = INF110
 	url = https://github.com/sapk-tb/INF110.git
+[submodule "SIT150"]
+	path = SIT150
+	url = https://github.com/sapk-tb/SIT150
